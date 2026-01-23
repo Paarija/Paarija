@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzM3eDZxdHl4dGpvaWwzZXpwMXgwemM1em51dGQzOHIyMWtxenh1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f6uy0N1WHTWrm/giphy.gif" width="580" />
-</p>
-
-
 #  About Me:
 I’m a Data Science & AI enthusiast who enjoys building end-to-end systems that turn data into decisions. I work across machine learning, deep learning, and LLM-powered applications, with a focus on practical, explainable solutions.<br><br>I’ve built projects in predictive modeling, time-series forecasting, multi-agent LLM systems, and data analytics dashboards, using tools like Python, SQL, Streamlit, and modern ML frameworks.<br><br>Currently focused on becoming a job-ready Data Scientist, and always curious about solving real-world problems with data.
 
