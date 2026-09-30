@@ -1,25 +1,29 @@
-# Hi, I'm Parija Nath
+# Hi, I'm Parija 👋
 
-I build data science projects that turn messy data into decisions people can inspect and question. My work spans predictive modeling, transaction-sequence learning, NLP, and evidence-based LLM workflows. I have an M.S. in Bioinformatics and am interested in Data Scientist and Applied ML roles, especially in financial services.
+![Parija Nath: From raw data to reasoned decisions](assets/profile-banner.svg)
 
-[LinkedIn](https://www.linkedin.com/in/parija-nath-110401-/) · [Email](mailto:parijanath7@gmail.com) · [GitHub repositories](https://github.com/Paarija?tab=repositories)
+<p align="center">
+  <a href="https://www.linkedin.com/in/parija-nath-110401-/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  <a href="mailto:parijanath7@gmail.com"><img alt="Email Parija" src="https://img.shields.io/badge/Email-Say_hello-714fba?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
+</p>
 
-## Featured projects
+I'm a data scientist who likes models with receipts: a clear baseline, a fair evaluation, and an explanation someone can challenge. I have an M.S. in Bioinformatics and build across banking, supply chains, and public health data. I'm open to Data Scientist and Applied ML roles, especially in financial services.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Banking Product Propensity Modeling](https://github.com/Paarija/banking-product-propensity-modeling) | Compares a transaction-sequence transformer with a gradient-boosting baseline on anonymized banking data. Includes client-disjoint evaluation and a local Streamlit dashboard. [Measured results and limitations](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md). |
-| [Supplier Risk Intelligence](https://github.com/Paarija/supplier-risk-intelligence) | Combines supplier performance with disruption-news classification to prioritize risks by expected loss. Includes probability calibration, SHAP explanations, and a Streamlit decision dashboard. Reported benchmarks use synthetic demo data. |
-| [Clinical Safety Intelligence](https://github.com/Paarija/clinical-safety-intelligence) | Builds a public-data pipeline for FAERS safety-signal ranking with ROR/PRR, then uses a LangGraph/Gemini workflow to organize FDA, PubMed, and trial evidence for analyst review. |
+## 🚀 Things I've built
 
-**One measured result:** In a fixed 5,000-client banking experiment, buyer-only hit@1 was 52.4% for the transformer versus 41.1% for the baseline. The test fold had 124 buyer-month examples; this is an exploratory result, not production performance. [Method and limitations](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md).
+| | Project | What you'll find |
+| :---: | --- | --- |
+| 🏦 | [Banking Product Propensity Modeling](https://github.com/Paarija/banking-product-propensity-modeling) | Transaction-sequence transformer vs. gradient boosting on anonymized banking data, with client-disjoint evaluation and a local Streamlit dashboard. [Results and limitations](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md). |
+| 🚚 | [Supplier Risk Intelligence](https://github.com/Paarija/supplier-risk-intelligence) | Supplier performance + disruption-news NLP → calibrated, explainable risk ranking by expected loss. Synthetic demo benchmarks, SHAP, and Streamlit. |
+| 🧪 | [Clinical Safety Intelligence](https://github.com/Paarija/clinical-safety-intelligence) | FAERS safety-signal ranking with ROR/PRR, followed by quality-gated FDA, PubMed, and trial evidence synthesis using LangGraph and Gemini. |
+| 💬 | [Text2SQL Studio](https://github.com/Paarija/Automated-SQL-Querying-and-Insights-Generator-LLM-Python-) | Natural-language questions → read-only SQL, query validation, and an evaluation workflow. |
 
-Also built [Text2SQL Studio](https://github.com/Paarija/Automated-SQL-Querying-and-Insights-Generator-LLM-Python-), a natural-language-to-SQL application with read-only query execution and an evaluation workflow.
+> 📈 **A result with context:** In one fixed 5,000-client banking experiment, buyer-only hit@1 was **52.4%** for the transformer vs. **41.1%** for the baseline. The test fold had 124 buyer-month examples, so this is exploratory—not production performance. [See the method and caveats](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md).
 
-## Tools I use
+## 🧰 My toolkit
 
-- **Data and modeling:** Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, PyTorch
-- **NLP and LLM workflows:** Hugging Face Transformers, LangGraph, Gemini API
-- **Apps and evaluation:** Streamlit, Plotly, Pytest, Git
+- **Data + modeling:** `Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `PyTorch`
+- **NLP + LLM workflows:** `Hugging Face Transformers` · `LangGraph` · `Gemini API`
+- **Apps + evaluation:** `Streamlit` · `Plotly` · `SHAP` · `Pytest` · `Git`
 
-I care about clear baselines, leakage-aware evaluation, and honest limitations as much as the model itself.
+<p align="center"><em>Curious about a project? Start with its README—or say hello above.</em></p>
