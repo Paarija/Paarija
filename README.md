@@ -1,18 +1,25 @@
-#  About Me:
-I’m a Data Science & AI enthusiast who enjoys building end-to-end systems that turn data into decisions. I work across machine learning, deep learning, and LLM-powered applications, with a focus on practical, explainable solutions.<br><br>I’ve built projects in predictive modeling, time-series forecasting, multi-agent LLM systems, and data analytics dashboards, using tools like Python, SQL, Streamlit, and modern ML frameworks.<br><br>Currently focused on becoming a job-ready Data Scientist, and always curious about solving real-world problems with data.
+# Hi, I'm Parija Nath
 
+I build data science projects that turn messy data into decisions people can inspect and question. My work spans predictive modeling, transaction-sequence learning, NLP, and evidence-based LLM workflows. I have an M.S. in Bioinformatics and am interested in Data Scientist and Applied ML roles, especially in financial services.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/parija-nath-110401-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parijanath7@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/parija-nath-110401-/) · [Email](mailto:parijanath7@gmail.com) · [GitHub repositories](https://github.com/Paarija?tab=repositories)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paarija&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=paarija&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paarija&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Featured projects
 
----
-[![](https://visitcount.itsvg.in/api?id=paarija&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it demonstrates |
+| --- | --- |
+| [Banking Product Propensity Modeling](https://github.com/Paarija/banking-product-propensity-modeling) | Compares a transaction-sequence transformer with a gradient-boosting baseline on anonymized banking data. Includes client-disjoint evaluation and a local Streamlit dashboard. [Measured results and limitations](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md). |
+| [Supplier Risk Intelligence](https://github.com/Paarija/supplier-risk-intelligence) | Combines supplier performance with disruption-news classification to prioritize risks by expected loss. Includes probability calibration, SHAP explanations, and a Streamlit decision dashboard. Reported benchmarks use synthetic demo data. |
+| [Clinical Safety Intelligence](https://github.com/Paarija/clinical-safety-intelligence) | Builds a public-data pipeline for FAERS safety-signal ranking with ROR/PRR, then uses a LangGraph/Gemini workflow to organize FDA, PubMed, and trial evidence for analyst review. |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**One measured result:** In a fixed 5,000-client banking experiment, buyer-only hit@1 was 52.4% for the transformer versus 41.1% for the baseline. The test fold had 124 buyer-month examples; this is an exploratory result, not production performance. [Method and limitations](https://github.com/Paarija/banking-product-propensity-modeling/blob/main/docs/results.md).
+
+Also built [Text2SQL Studio](https://github.com/Paarija/Automated-SQL-Querying-and-Insights-Generator-LLM-Python-), a natural-language-to-SQL application with read-only query execution and an evaluation workflow.
+
+## Tools I use
+
+- **Data and modeling:** Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, PyTorch
+- **NLP and LLM workflows:** Hugging Face Transformers, LangGraph, Gemini API
+- **Apps and evaluation:** Streamlit, Plotly, Pytest, Git
+
+I care about clear baselines, leakage-aware evaluation, and honest limitations as much as the model itself.
